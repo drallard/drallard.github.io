@@ -6,6 +6,9 @@ permalink: /about/
 
 Blurb about what it means to be Dr. Sarah Allard.
 
+The illustration of me that you see above was made by friend
+[Meredith Jensen](http://meredithjensen.com).
+
 ## Education
 
 * **University of Maryland**: PhD in Plant Science, *GPA 3.96*.
