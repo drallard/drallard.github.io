@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Blurb about what it means to be Dr. Sarah Allard.
+I currently work as a postdoctoral fellow for CONSERVE, a Center of Excellence at the Nexus of Sustainable Water Reuse, Food, and Health. I began my research career as an undergraduate, investigating the pollination efficiency and diversity of native bees on watermelon fields in the Mid-Atlantic. After receiving my B.A. in Biology from Haverford College in 2009, I began an ORISE fellowship in the Division of Microbiology at the FDA's Center for Food Safety and Applied Nutrition. At FDA, I participated in environmental sampling for foodborne pathogens, evaluation of a food safety biological control agent, and optimization of _Salmonella_ detection methods from environmental samples. As a graduate student in Plant Science at the University of Maryland, I studied the influence of farming practices and environmental conditions on plant microbiomes in the complex agricultural environment. As part of the CONSERVE team based in the UMD School of Public Health, I am primarily working to characterize the microbiomes of nontraditional irrigation water sources including surface water and reclaimed wastewater, and I also participate in farmer and community outreach. I am passionate about working towards the adoption of agricultural practices that are microbiologically safe, environmentally sustainable, and economically viable.
 
 The illustration of me that you see above was made by friend
 [Meredith Jensen](http://meredithjensen.com).
