@@ -62,6 +62,8 @@ Research Assistant to [Dr. Neal Williams](http://entomology.ucdavis.edu/Faculty/
 
 ## Publications
 
+* J. Chopyk, **S. Allard**, D.J. Nasko, A. Bui, E.F. Mongodin, A.R. Sapkota (2018). Agricultural freshwater pond supports diverse and dynamic bacterial and viral populations. Frontiers in Microbiology 9(792).
+  [publication online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928236/).
 * **S. Allard**, C. Walsh, A. Wallis, A. Ottesen, E. Brown, S. Micallef (2016).
   Solanum lycopersicum (tomato) hosts robust phyllosphere and rhizosphere
   bacterial communities when grown in soil amended with various organic and
