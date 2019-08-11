@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Sarah Allard, PhD
+name: Sarah M. Allard, PhD
 
 # Short bio or description (displayed in the header)
 description: Plant scientist, microbial whisperer, water enthusiast.
@@ -16,7 +16,7 @@ description: Plant scientist, microbial whisperer, water enthusiast.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: sarah.m.allard@gmail.com
+  email: sarahallard.ucsd@gmail.com
   facebook:
   flickr:
   github: drallard
