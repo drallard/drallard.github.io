@@ -10,7 +10,7 @@ published: true
 ### Every Drop Counts: Water, Food, and Global Public Health ([ENSP360](https://ntst.umd.edu/soc/201801/ENSP/ENSP360))
 #### Spring 2018
 
-In-depth interdisciplinary study of the public health issues related to water use for global food production. Topics include accessibility and availability of safe water for agriculture worldwide, potential microbiological and chemical hazards in agricultural water, alternative water sources such as reclaimed wastewater and return flows, food safety approaches to managing agricultural water, and agricultural influences on surface and groundwater quality. Political, social, and economic factors relating to agricultural water are addressed, with special focus on regions that are leaders in innovative water management and regions where access to clean water for agriculture is a major challenge. Classes include lectures, discussions, and field-trips.
+In-depth interdisciplinary study of the public health issues related to water use for global food production. Topics included accessibility and availability of safe water for agriculture worldwide, potential microbiological and chemical hazards in agricultural water, alternative water sources such as reclaimed wastewater and return flows, food safety approaches to managing agricultural water, and agricultural influences on surface and groundwater quality. Political, social, and economic factors relating to agricultural water were addressed, with special focus on regions that are leaders in innovative water management and regions where access to clean water for agriculture is a major challenge. Classes included lectures, discussions, and field-trips.
 
 ***
 
