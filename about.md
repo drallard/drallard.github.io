@@ -81,42 +81,34 @@ Research Assistant to [Dr. Neal Williams](http://entomology.ucdavis.edu/Faculty/
 
 ## Publications
 
-* **S. Allard** and S. Micallef (2019). The Plant Microbiome: Diversity, Dynamics, and Role in Food Safety (Chapter 11). In: Biswas, D. and Micallef, S., editors. Safety and Practice for Organic Food. Academic Press. ISBN: [9780128120606](https://www.elsevier.com/books/safety-and-practice-for-organic-food/biswas/978-0-12-812060-6).
-* **S. Allard**, M.T. Callahan, A. Bui, A.M. Ferelli, J. Chopyk, E.F. Mongodin, S.A. Micallef, A.R. Sapkota (2019). Creek to Table: Investigating the movement of fecal indicators, bacterial pathogens, and total bacterial communities through creek water irrigation of kale and radishes.  Science of the Total Environment 666: 461-471. [publication online](https://doi.org/10.1016/j.scitotenv.2019.02.179).
-* **S. Allard**, S. Solaiman, M.T. Callahan, A. Bui, H. Craddock, J. Haymaker, D. Foust, E. Smyth, E.F. Mongodin, F. Hashem, E. May, S.A. Micallef, A.R. Sapkota (2019). Quenching by sodium thiosulfate does not influence 16S rRNA gene sequencing profiles of reclaimed water from three sites in Maryland, United States. Environmental Research 172: 296-300. [publication online](https://doi.org/10.1016/j.envres.2019.02.022).
-* S. Panthi, G. Raspanti, **S. Allard**, A. Bui, M.T. Callahan, H. Craddock, R. Murray, C. East, E. Handy, B. Anderson, S. Craighead, S. Gartley, A. Vanore, E. May, M. Taabodi, R. Duncan, D. Foust, J. Haymaker, W. Betancourt, A.R. Sapkota, M. Sharma, K. Kniel, S.A. Micallef, F. Hashem, C. Gerba, S. Ravishankar, M. Pop, S. Parveen, E. May, A. Sapkota (2019). Pharmaceuticals, herbicides, and disinfectants in agricultural water sources. Environmental Research 174: 1-8. [publication online](https://doi.org/10.1016/j.envres.2019.04.011).
-* J. Haymaker, M. Sharma, S. Parveen, F. Hashem, E.B. May, E.T. Handy, C. White, C. East, R. Bradshaw, S.A. Micallef, M.T. Callahan, **S. Allard**, B. Anderson, S. Craighead, S. Gartley, A. Vanore, K.E. Kniel, S. Solaiman, A. Bui, R.T. Murray, H.A. Craddock, P. Kulkarni, D. Foust, R. Duncan, M. Taabodi, A.R. Sapkota (2019). Prevalence of Shiga-toxigenic and Atypical Enteropathogenic Escherichia coli in Untreated Surface Water and Reclaimed Water in the Mid-Atlantic U.S. Environmental Research 172: 630-636. [publication online](https://doi.org/10.1016/j.envres.2019.02.019).
-* **S. Allard**, A. Ottesen, E. Brown, S. Micallef (2018). Insect exclusion limits variation in tomato flower and fruit microbiomes. Journal of Applied Microbiology 125(6): 1749-1760. [publication online](https://doi.org/10.1111/jam.14087).
-* J.S. Meisel, D.J. Nasko, B. Brubach, V.C. Espinoza, J. Chopyk, H. Corrada-Bravo, M. Fedarko, J. Ghurye, K. Javkar, N.D. Olson, N. Shah, **S.M. Allard**, A.L. Bazinet, N.H. Bergman, A. Brown, J.G. Caporaso, S. Conlan, J. DiRuggiero, S.P. Forry, N.A. Hasan, J. Kralj, P.M. Luethy, D.K. Milton, B. Ondov, S. Preheim, S. Ratnayake, S.M. Rogers, M.J. Rosovitz, E.G. Sakowski, N.O. Schliebs, D.D. Sommer, K.L. Ternus, G. Uritskiy, S.X. Zhang, M. Pop, T. Treangen (2018). Current progress and future opportunities in applications of bioinformatics for biodefense and pathogen detection: Report from the Winter Mid-Atlantic Microbiome Meet-up, College Park, MD January 10th, 2018. Microbiome 6: 197. [publication online](https://doi.org/10.1186/s40168-018-0582-5).
-* J. Chopyk, **S. Allard**, D.J. Nasko, A. Bui, E.F. Mongodin, A.R. Sapkota (2018). Agricultural freshwater pond supports diverse and dynamic bacterial and viral populations. Frontiers in Microbiology 9(792).
+* **S. Allard** and S. Micallef (2019). _The Plant Microbiome: Diversity, Dynamics, and Role in Food Safety (Chapter 11)_. In: Biswas, D. and Micallef, S., editors. Safety and Practice for Organic Food. Academic Press. ISBN: [9780128120606](https://www.elsevier.com/books/safety-and-practice-for-organic-food/biswas/978-0-12-812060-6).
+* **S. Allard**, M.T. Callahan, A. Bui, A.M. Ferelli, J. Chopyk, E.F. Mongodin, S.A. Micallef, A.R. Sapkota (2019). _Creek to Table: Investigating the movement of fecal indicators, bacterial pathogens, and total bacterial communities through creek water irrigation of kale and radishes_.  Science of the Total Environment 666: 461-471. [publication online](https://doi.org/10.1016/j.scitotenv.2019.02.179).
+* **S. Allard**, S. Solaiman, M.T. Callahan, A. Bui, H. Craddock, J. Haymaker, D. Foust, E. Smyth, E.F. Mongodin, F. Hashem, E. May, S.A. Micallef, A.R. Sapkota (2019). _Quenching by sodium thiosulfate does not influence 16S rRNA gene sequencing profiles of reclaimed water from three sites in Maryland, United States_. Environmental Research 172: 296-300. [publication online](https://doi.org/10.1016/j.envres.2019.02.022).
+* S. Panthi, G. Raspanti, **S. Allard**, A. Bui, M.T. Callahan, H. Craddock, R. Murray, C. East, E. Handy, B. Anderson, S. Craighead, S. Gartley, A. Vanore, E. May, M. Taabodi, R. Duncan, D. Foust, J. Haymaker, W. Betancourt, A.R. Sapkota, M. Sharma, K. Kniel, S.A. Micallef, F. Hashem, C. Gerba, S. Ravishankar, M. Pop, S. Parveen, E. May, A. Sapkota (2019). _Pharmaceuticals, herbicides, and disinfectants in agricultural water sources_. Environmental Research 174: 1-8. [publication online](https://doi.org/10.1016/j.envres.2019.04.011).
+* J. Haymaker, M. Sharma, S. Parveen, F. Hashem, E.B. May, E.T. Handy, C. White, C. East, R. Bradshaw, S.A. Micallef, M.T. Callahan, **S. Allard**, B. Anderson, S. Craighead, S. Gartley, A. Vanore, K.E. Kniel, S. Solaiman, A. Bui, R.T. Murray, H.A. Craddock, P. Kulkarni, D. Foust, R. Duncan, M. Taabodi, A.R. Sapkota (2019). _Prevalence of Shiga-toxigenic and Atypical Enteropathogenic Escherichia coli in Untreated Surface Water and Reclaimed Water in the Mid-Atlantic U.S._ Environmental Research 172: 630-636. [publication online](https://doi.org/10.1016/j.envres.2019.02.019).
+* **S. Allard**, A. Ottesen, E. Brown, S. Micallef (2018). _Insect exclusion limits variation in tomato flower and fruit microbiomes_. Journal of Applied Microbiology 125(6): 1749-1760. [publication online](https://doi.org/10.1111/jam.14087).
+* J.S. Meisel, D.J. Nasko, B. Brubach, V.C. Espinoza, J. Chopyk, H. Corrada-Bravo, M. Fedarko, J. Ghurye, K. Javkar, N.D. Olson, N. Shah, **S.M. Allard**, A.L. Bazinet, N.H. Bergman, A. Brown, J.G. Caporaso, S. Conlan, J. DiRuggiero, S.P. Forry, N.A. Hasan, J. Kralj, P.M. Luethy, D.K. Milton, B. Ondov, S. Preheim, S. Ratnayake, S.M. Rogers, M.J. Rosovitz, E.G. Sakowski, N.O. Schliebs, D.D. Sommer, K.L. Ternus, G. Uritskiy, S.X. Zhang, M. Pop, T. Treangen (2018). _Current progress and future opportunities in applications of bioinformatics for biodefense and pathogen detection: Report from the Winter Mid-Atlantic Microbiome Meet-up, College Park, MD January 10th, 2018_. Microbiome 6: 197. [publication online](https://doi.org/10.1186/s40168-018-0582-5).
+* J. Chopyk, **S. Allard**, D.J. Nasko, A. Bui, E.F. Mongodin, A.R. Sapkota (2018). _Agricultural freshwater pond supports diverse and dynamic bacterial and viral populations_. Frontiers in Microbiology 9(792).
   [publication online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928236/).
 * **S. Allard**, C. Walsh, A. Wallis, A. Ottesen, E. Brown, S. Micallef (2016).
-  Solanum lycopersicum (tomato) hosts robust phyllosphere and rhizosphere
-  bacterial communities when grown in soil amended with various organic and
-  synthetic fertilizers. Science of the Total Environment 573: 555-563.
-  [publication online](https://www.ncbi.nlm.nih.gov/pubmed/27580466).
+  _Solanum lycopersicum (tomato) hosts robust phyllosphere and rhizosphere bacterial communities when grown in soil amended with various organic and synthetic fertilizers_. Science of the Total Environment 573: 555-563. [publication online](https://www.ncbi.nlm.nih.gov/pubmed/27580466).
 * R. Bell, J. Zheng, E. Burrows, **S. Allard**, C. Wang, C. Keys, D. Melka, E.
-  Strain, Y. Luo, M. Allard, S. Rideout, E. Brown (2015). Ecological
-  prevalence, genetic diversity, and epidemiological aspects of Salmonella
-  isolated from tomato agricultural regions of the Virginia Eastern Shore.
+  Strain, Y. Luo, M. Allard, S. Rideout, E. Brown (2015). _Ecological prevalence, genetic diversity, and epidemiological aspects of Salmonella isolated from tomato agricultural regions of the Virginia Eastern Shore_.
   Frontiers in Microbiology 6(415).
   [publication online](https://www.ncbi.nlm.nih.gov/pubmed/25999938).
 * **S. Allard**, A. Enurah, E. Strain, R. Blodgett, P. Millner, S. Rideout, E.
-  Brown, J. Zheng (2014). In situ evaluation of Paenibacillus alvei in reducing
-  carriage of Salmonella Newport on whole tomato plants. Applied and
+  Brown, J. Zheng (2014). _In situ evaluation of Paenibacillus alvei in reducing carriage of Salmonella Newport on whole tomato plants_. Applied and
   Environmental Microbiology 80(13): 3842:3849.
   [publication online](https://www.ncbi.nlm.nih.gov/pubmed/24747888).
 * Y. Luo, C. Wang, **S. Allard**, E. Strain, M. Allard, E. Brown, and J. Zheng
-  (2013). Draft Genome Sequences of Paenibacillus alvei. Genome Announcements
+  (2013). _Draft Genome Sequences of Paenibacillus alvei_. Genome Announcements
   1(5): e00673-13.
   [publication online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3757446/).
 * A. Ottesen, A. Gonzalez, J. White, J. Pettengill, C. Li, **S. Allard**, S.
   Rideout, M. Allard, T. Hill, P. Evans, E. Strain, S. Musser, R. Knight, E.
-  Brown (2013). Baseline survey of the anatomical microbial ecology of an
-  important food plant: Solanum lycopersicum (tomato). BMC Microbiology 13(1):
+  Brown (2013). _Baseline survey of the anatomical microbial ecology of an important food plant: Solanum lycopersicum (tomato)_. BMC Microbiology 13(1):
   114.
   [publication online](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-13-114).
 * J. Zheng, **S. Allard**, S. Reynolds, P. Millner, G. Arce, R. Blodgett, E.
-  Brown (2013). Colonization and Internalization of Salmonella enterica in
-  Tomato Plants. Applied and Environmental Microbiology 79: 2494-502.
+  Brown (2013). _Colonization and Internalization of Salmonella enterica in Tomato Plants_. Applied and Environmental Microbiology 79: 2494-502.
   [publication online](http://aem.asm.org/content/79/8/2494.full).
