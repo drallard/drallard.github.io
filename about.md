@@ -38,7 +38,7 @@ Assistant Program Manager for [CONSERVE](http://conservewaterforfood.org/).
 
 ### University of Maryland School of Public Health
 #### College Park, MD (2016 - 2018)
-Postdoctoral Fellow for [CONSERVE](http://conservewaterforfood.org/).
+Postdoctoral Fellow with [Dr. Amy Sapkota](http://sph.umd.edu/people/amy-r-sapkota).
 
 * Coordinated and participated in on-farm sampling of nontraditional irrigation
   water in the Mid-Atlantic.
