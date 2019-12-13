@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
 published: true
 ---
-# Research
-
 ### Harnessing the Microbiome to Support Food Safety and Security
 
 Food is the fuel of human society, integral to health as well as cultural expression. However, there are many stressors on our food system today, including depletion of freshwater resources, pollution of both land and water, and increasing intensity of extreme weather. In order to feed the world’s population, which is both growing in number and shifting in diet toward more resource-intensive foods, forward-thinking interdisciplinary research will be essential. There is a pressing need for innovative solutions that decrease the environmental footprint of agriculture and increase its climate resiliency while maintaining food safety. A vast body of research has shown the integral role that microbiomes play in both human and environmental health. There is enormous unexplored potential in the microscopic world surrounding us. My goal is to harness this world to provide scalable and practical microbe-based solutions to the most pressing needs of agriculture today, and to work with farmers and policymakers to lead to tangible change.
