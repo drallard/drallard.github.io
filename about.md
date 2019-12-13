@@ -5,25 +5,23 @@ permalink: /about/
 published: true
 ---
 
-I am an Assistant Project Scientist in the [Gilbert Lab](http://www.gilbertlab.com/), housed between the University of California San Diego School of Medicine and Scripps Intitution of Oceanography. I am interested in exploring how we can harness microbiome research to support environmental sustainability as well as safe and productive food systems. To address growing challenges, such as the presence of emerging contaminants and increasing climate variability, I believe that interdisciplinary collaboration and stakeholder engagement will be essential. 
+I am an Assistant Project Scientist in the [Gilbert Lab](http://www.gilbertlaboratory.com/), housed between the University of California San Diego School of Medicine and Scripps Intitution of Oceanography. I am interested in exploring how we can harness microbiome research to support environmental recovery after disturbance, safe and productive food systems, and human health. To address growing challenges, such as the presence of emerging contaminants and increasing climate variability, I believe that interdisciplinary collaboration and stakeholder engagement will be essential. 
 
 I began my research career as an undergraduate, investigating the pollination efficiency and diversity of native bees on watermelon fields in the Mid-Atlantic. After receiving my B.A. in Biology from Haverford College in 2009, I began an ORISE fellowship in the Division of Microbiology at the FDA's Center for Food Safety and Applied Nutrition. At FDA, I participated in environmental sampling for foodborne pathogens, evaluation of a food safety biological control agent, and optimization of _Salmonella_ detection methods from environmental samples. As a graduate student in Plant Science at the University of Maryland, I studied the influence of farming practices and environmental conditions on plant microbiomes in the complex agricultural environment. As part of the [CONSERVE](http://conservewaterforfood.org/) team based in the UMD School of Public Health, I worked as a postdoctoral fellow and Assistant Program Manager, primarily working to characterize the microbiomes of nontraditional irrigation water sources including surface water and reclaimed wastewater. I actively participated in farmer and community outreach and directed the CONSERVE Summer Intern Program. 
-
-In addition to science, I am passionate about music, cooking, hiking, and my scruffy rescue dog, Joni. 
 
 The illustration of me that you see above was made by friend
 [Meredith Jensen](http://meredithjensen.com).
 
 ## Education
 
-* **University of Maryland**: PhD in Plant Science, *GPA 3.96*.
-* **Haverford College**: Bachelor of Arts in Biology, *GPA 3.5*.
+* **University of Maryland**: PhD in Plant Science
+* **Haverford College**: Bachelor of Arts in Biology
 
 ## Professional Experience
 
 ### University of California San Diego School of Medicine
 #### La Jolla, CA (2019 - Present)
-Assistant Project Scientist with [Dr. Jack Gilbert](http://www.gilbertlab.com/).
+Assistant Project Scientist with [Dr. Jack Gilbert](http://www.gilbertlaboratory.com/).
 
 * Supervise and conduct research related to environmental, medical, and built environment microbiomes.
 * Develop interdisciplinary educational programming focused on microbiomes.
@@ -32,9 +30,9 @@ Assistant Project Scientist with [Dr. Jack Gilbert](http://www.gilbertlab.com/).
 #### College Park, MD (2018 - 2019)
 Assistant Program Manager for [CONSERVE](http://conservewaterforfood.org/).
 
-* Facilitate collaboration, communication, data sharing for team located across multiple institutions. 
-* Direct CONSERVE Summer Internship Program for undergraduate students, including overseeing candidate selection, leading professional development seminars, and evaluating program efficacy.
-* Organize and lead interdisciplinary CONSERVE Scholars educational trip to Israel/West Bank.
+* Facilitated collaboration, communication, data sharing for team located across multiple institutions. 
+* Directed CONSERVE Summer Internship Program for undergraduate students, including overseeing candidate selection, leading professional development seminars, and evaluating program efficacy.
+* Organized and led interdisciplinary CONSERVE Scholars educational trip to Israel/West Bank.
 
 ### University of Maryland School of Public Health
 #### College Park, MD (2016 - 2018)
@@ -60,7 +58,7 @@ Graduate Research Assistant to [Dr. Shirley Micallef](https://psla.umd.edu/resea
 
 ### FDA Center for Food Safety and Applied Nutrition
 #### College Park, MD (2009 - 2013)
-ORISE Fellow in the Division of Microbiology
+ORISE Fellow in the Division of Microbiology with [Dr. Eric Brown](https://www.fda.gov/food/whole-genome-sequencing-wgs-program/whole-genome-sequencing-researchers#Eric_Brown)
 
 * Evaluated reservoirs of Salmonella in agricultural environments on Virginia’s
   Eastern Shore.
@@ -81,6 +79,7 @@ Research Assistant to [Dr. Neal Williams](http://entomology.ucdavis.edu/Faculty/
 
 ## Publications
 
+* J. Chopyk, D. Nasko, **S. Allard**, A. Bui, T. Treangen, M. Pop, E. Mongodin, A.R. Sapkota (2019). _Comparative metagenomic analysis of microbial taxonomic and functional variations in untreated surface and reclaimed waters used in irrigation applications_. Water Research 169. [publication online](https://doi.org/10.1016/j.watres.2019.115250).
 * **S. Allard** and S. Micallef (2019). _The Plant Microbiome: Diversity, Dynamics, and Role in Food Safety (Chapter 11)_. In: Biswas, D. and Micallef, S., editors. Safety and Practice for Organic Food. Academic Press. ISBN: [9780128120606](https://www.elsevier.com/books/safety-and-practice-for-organic-food/biswas/978-0-12-812060-6).
 * **S. Allard**, M.T. Callahan, A. Bui, A.M. Ferelli, J. Chopyk, E.F. Mongodin, S.A. Micallef, A.R. Sapkota (2019). _Creek to Table: Investigating the movement of fecal indicators, bacterial pathogens, and total bacterial communities through creek water irrigation of kale and radishes_.  Science of the Total Environment 666: 461-471. [publication online](https://doi.org/10.1016/j.scitotenv.2019.02.179).
 * **S. Allard**, S. Solaiman, M.T. Callahan, A. Bui, H. Craddock, J. Haymaker, D. Foust, E. Smyth, E.F. Mongodin, F. Hashem, E. May, S.A. Micallef, A.R. Sapkota (2019). _Quenching by sodium thiosulfate does not influence 16S rRNA gene sequencing profiles of reclaimed water from three sites in Maryland, United States_. Environmental Research 172: 296-300. [publication online](https://doi.org/10.1016/j.envres.2019.02.022).
