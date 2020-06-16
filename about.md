@@ -84,7 +84,8 @@ Research Assistant to [Dr. Neal Williams](http://entomology.ucdavis.edu/Faculty/
   Delaware Valley.
 
 
-## Publications
+## Select Publications
+Full list: [Google scholar](https://scholar.google.com/citations?user=oZonEsEAAAAJ&hl=en)
 
 * M. Sharma, E. Handy, C. East, S. Kim, C. Jiang. M.T. Callahan, **S.M. Allard**, S. Micallef, S. Craighead, B. Anderson, S. Gartley, A. Vanore, K.E. Kniel, J. Haymaker, R. Duncan, C. White, D. Foust, F. Hashem, S. Parveen, E. May, P. Kulkarni, A. Bui, H. Craddock, R.T. Murray, A.R. Sapkota (2020). _Prevalence of Salmonella spp. and Listeria monocytogenes in Non-traditional Irrigation Waters in the Mid-Atlantic United States is Affected by Water Type, Season, and Recovery Method._ PLOS ONE 15:3. [publication online](https://doi.org/10.1371/journal.pone.0229365).
 * **S. Allard**, A. Ottesen, S. Micallef (2020). _Rainfall induces temporary shifts in epiphytic bacterial communities of cucumber and tomato fruit._ Nature Scientific Reports 10. [publication online](https://doi.org/10.1038/s41598-020-58671-7).
@@ -126,4 +127,3 @@ Research Assistant to [Dr. Neal Williams](http://entomology.ucdavis.edu/Faculty/
   
 * **S. Allard**. Biotechniques. Blog: [Refocusing our microbiome lab for SARS-CoV-2 research.](https://www.biotechniques.com/coronavirus-news/opinion_refocusing-our-microbiome-lab-for-sars-cov-2-research/) 21 Apr 2020. 
 * **S. Allard** and J.A. Gilbert. Biotechniques. Blog: [Navigating the landscape of research-based careers with a PhD.](https://www.biotechniques.com/general-interest/navigating-the-landscape-of-research-based-careers-with-a-phd/) 28 Nov 2019.
-
