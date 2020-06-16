@@ -15,4 +15,6 @@ Division of Microbiology, US Food and Drug Administration
 Williams Lab, Bryn Mawr College Biology
 ![Undergrad]({{site.baseurl}}/images/williams_lab_picstitch.jpg)
 
+Timeline
+![timeline]({{site.baseurl}}/images/timeline.jpg)
 
