@@ -23,8 +23,15 @@ The illustration of me that you see above was made by friend
 #### La Jolla, CA (2019 - Present)
 Assistant Project Scientist with [Dr. Jack Gilbert](http://www.gilbertlaboratory.com/).
 
-* Supervise and conduct research related to environmental, medical, and built environment microbiomes.
+* Supervise and conduct research related to environmental, medical, and built environment microbiomes, including leadership in COVID-19 response
+* Mentor students, postdoctoral fellows, and laboratory staff
 * Develop interdisciplinary educational programming focused on microbiomes.
+
+### Bioinformatics Consultant
+#### La Jolla, CA (2019 - Present)
+
+* Create custom databases from publicly available genomic data
+* Provide expertise for microbiome-related product development
 
 ### University of Maryland School of Public Health
 #### College Park, MD (2018 - 2019)
@@ -79,6 +86,9 @@ Research Assistant to [Dr. Neal Williams](http://entomology.ucdavis.edu/Faculty/
 
 ## Publications
 
+* M. Sharma, E. Handy, C. East, S. Kim, C. Jiang. M.T. Callahan, **S.M. Allard**, S. Micallef, S. Craighead, B. Anderson, S. Gartley, A. Vanore, K.E. Kniel, J. Haymaker, R. Duncan, C. White, D. Foust, F. Hashem, S. Parveen, E. May, P. Kulkarni, A. Bui, H. Craddock, R.T. Murray, A.R. Sapkota (2020). _Prevalence of Salmonella spp. and Listeria monocytogenes in Non-traditional Irrigation Waters in the Mid-Atlantic United States is Affected by Water Type, Season, and Recovery Method._ PLOS ONE 15:3. [publication online](https://doi.org/10.1371/journal.pone.0229365).
+* **S. Allard**, A. Ottesen, S. Micallef (2020). _Rainfall induces temporary shifts in epiphytic bacterial communities of cucumber and tomato fruit._ Nature Scientific Reports 10. [publication online](https://doi.org/10.1038/s41598-020-58671-7).
+* J. Chopyk, D. Nasko, **S. Allard**, M.T. Callahan, A. Bui, A.M. Ferelli, S. Chattopadhyay, E. Mongodin, M. Pop, S. Micallef, A.R. Sapkota (2020). _Metagenomic analysis of bacterial and viral assemblages from a freshwater creek and irrigated field reveals temporal and spatial dynamics._ Science of the Total Environment 706. [publication online](https://doi.org/10.1016/j.scitotenv.2019.135395).
 * J. Chopyk, D. Nasko, **S. Allard**, A. Bui, T. Treangen, M. Pop, E. Mongodin, A.R. Sapkota (2019). _Comparative metagenomic analysis of microbial taxonomic and functional variations in untreated surface and reclaimed waters used in irrigation applications_. Water Research 169. [publication online](https://doi.org/10.1016/j.watres.2019.115250).
 * **S. Allard** and S. Micallef (2019). _The Plant Microbiome: Diversity, Dynamics, and Role in Food Safety (Chapter 11)_. In: Biswas, D. and Micallef, S., editors. Safety and Practice for Organic Food. Academic Press. ISBN: [9780128120606](https://www.elsevier.com/books/safety-and-practice-for-organic-food/biswas/978-0-12-812060-6).
 * **S. Allard**, M.T. Callahan, A. Bui, A.M. Ferelli, J. Chopyk, E.F. Mongodin, S.A. Micallef, A.R. Sapkota (2019). _Creek to Table: Investigating the movement of fecal indicators, bacterial pathogens, and total bacterial communities through creek water irrigation of kale and radishes_.  Science of the Total Environment 666: 461-471. [publication online](https://doi.org/10.1016/j.scitotenv.2019.02.179).
@@ -111,3 +121,9 @@ Research Assistant to [Dr. Neal Williams](http://entomology.ucdavis.edu/Faculty/
 * J. Zheng, **S. Allard**, S. Reynolds, P. Millner, G. Arce, R. Blodgett, E.
   Brown (2013). _Colonization and Internalization of Salmonella enterica in Tomato Plants_. Applied and Environmental Microbiology 79: 2494-502.
   [publication online](http://aem.asm.org/content/79/8/2494.full).
+  
+  ## Other Media
+  
+* **S. Allard**. Biotechniques. Blog: [Refocusing our microbiome lab for SARS-CoV-2 research.](https://www.biotechniques.com/coronavirus-news/opinion_refocusing-our-microbiome-lab-for-sars-cov-2-research/) 21 Apr 2020. 
+* **S. Allard** and J.A. Gilbert. Biotechniques. Blog: [Navigating the landscape of research-based careers with a PhD.](https://www.biotechniques.com/general-interest/navigating-the-landscape-of-research-based-careers-with-a-phd/) 28 Nov 2019.
+
