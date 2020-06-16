@@ -125,5 +125,6 @@ Full list: [Google scholar](https://scholar.google.com/citations?user=oZonEsEAAA
   
   ## Other Media
   
-* **S. Allard**. Biotechniques. Blog: [Refocusing our microbiome lab for SARS-CoV-2 research.](https://www.biotechniques.com/coronavirus-news/opinion_refocusing-our-microbiome-lab-for-sars-cov-2-research/) 21 Apr 2020. 
-* **S. Allard** and J.A. Gilbert. Biotechniques. Blog: [Navigating the landscape of research-based careers with a PhD.](https://www.biotechniques.com/general-interest/navigating-the-landscape-of-research-based-careers-with-a-phd/) 28 Nov 2019.
+* **S. Allard**. Biotechniques. Blog: [Refocusing our microbiome lab for SARS-CoV-2 research](https://www.biotechniques.com/coronavirus-news/opinion_refocusing-our-microbiome-lab-for-sars-cov-2-research/). 21 Apr 2020. 
+* **S. Allard** and J.A. Gilbert. Biotechniques. Blog: [Navigating the landscape of research-based careers with a PhD](https://www.biotechniques.com/general-interest/navigating-the-landscape-of-research-based-careers-with-a-phd/). 28 Nov 2019.
+* **S. Allard**. University of Maryland School of Public Health News. [“There Is No Bad Water:” Scholars Learn About Food, Energy, and Water Systems in Israel and the West Bank](https://sph.umd.edu/news-item/there-no-bad-water-scholars-learn-about-food-energy-and-water-systems-israel-and-west-bank). 18 Apr 2019.
