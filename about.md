@@ -21,7 +21,7 @@ The illustration of me that you see above was made by friend
 
 ### University of California San Diego School of Medicine
 #### La Jolla, CA (2019 - Present)
-Assistant Project Scientist with [Dr. Jack Gilbert](http://www.gilbertlaboratory.com/).
+Assistant Project Scientist with [Dr. Jack Gilbert](https://gilbertlab.ucsd.edu/).
 
 * Supervise and conduct research related to environmental, medical, and built environment microbiomes, including leadership in COVID-19 response
 * Mentor students, postdoctoral fellows, and laboratory staff
