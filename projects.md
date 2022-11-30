@@ -80,6 +80,6 @@ All-woman vocal ensemble dedicated to preserving and sharing traditional music f
 Former member (2009-2018), board member (2011-2018), treasurer (2011-2016), vice-president (2016-2018).
 
 ### Parenting and Dog Beach-ing
-![BeachBaby](![BeachBaby]({{site.baseurl}}/Leni.jpg)
+![BeachBaby]({{site.baseurl}}/Leni.jpg)
 
 ![Joni]({{site.baseurl}}/images/Joni_water2.jpg)
