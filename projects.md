@@ -5,7 +5,6 @@ permalink: /projects/
 published: true
 ---
 
-# Primary Research Areas
 
 ### Anthropogenic and Climate Impacts on Oyster Microbiomes and Disease 
 
