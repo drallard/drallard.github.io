@@ -20,12 +20,17 @@ With the ongoing and rapid transmission of severe acute respiratory syndrome cor
 
 ### Harnessing the Microbiome to Support Food Safety and Security
 
-Food is the fuel of human society, integral to health as well as cultural expression. However, there are many stressors on our food system today, including depletion of freshwater resources, pollution of both land and water, and increasing intensity of extreme weather. In order to feed the world’s population, which is both growing in number and shifting in diet toward more resource-intensive foods, forward-thinking interdisciplinary research will be essential. There is a pressing need for innovative solutions that decrease the environmental footprint of agriculture and increase its climate resiliency while maintaining food safety. A vast body of research has shown the integral role that microbiomes play in both human and environmental health. There is enormous unexplored potential in the microscopic world surrounding us. My goal is to harness this world to provide scalable and practical microbe-based solutions to the most pressing needs of terrestrial agriculture and aquaculture today, and to work with farmers and policymakers to lead to tangible change.
+Food is the fuel of human society, integral to health as well as cultural expression. However, there are many stressors on our food system today, including depletion of freshwater resources, pollution of both land and water, and increasing intensity of extreme weather. In order to feed the world’s population, which is both growing in number and shifting in diet toward more resource-intensive foods, forward-thinking interdisciplinary research is essential. There is a pressing need for innovative solutions that decrease the environmental footprint of agriculture and increase its climate resiliency while maintaining food safety. A vast body of research has shown the integral role that microbiomes play in both human and environmental health. There is enormous unexplored potential in the microscopic world surrounding us. My goal is to harness this world to provide scalable and practical microbe-based solutions to the most pressing needs of terrestrial agriculture and aquaculture today, and to work with farmers and policymakers to lead to tangible change.
 
 
 ***
 
 # Teaching
+
+### Microbiomes Across Environments ([SIO 186](https://catalog.ucsd.edu/courses/SIO.html))
+#### Winter 2023, Fall 2023
+
+This course is co-taught with Dr. Jack Gilbert and Dr. Rob Knight. This course is a comprehensive hands-on introduction to microbiome research, tools, and approaches for investigation. Informational and instructive lectures provide background and the latest in microbiome analysis, as well as experimental design, molecular biology, statistics, bioinformatics, and presentation and manuscript writing. Students design and carry out their own experiment, analyze their own data, and write a final report in the format of a scientific journal article.
 
 ### The Microbiome in Human and Environmental Health ([SIO87 B00](https://catalog.ucsd.edu/courses/SIO.html))
 #### Fall 2020, 2021, 2022
