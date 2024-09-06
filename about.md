@@ -5,9 +5,9 @@ permalink: /about/
 published: true
 ---
 
-I am an Associate Project Scientist in the [Gilbert Lab](https://gilbertlab.ucsd.edu/), housed between the University of California San Diego School of Medicine and Scripps Intitution of Oceanography. I am interested in exploring how we can harness microbiome research to support environmental recovery after disturbance, safe and productive food systems, and human health. To address growing challenges, such as the presence of emerging contaminants and increasing climate variability, I believe that interdisciplinary collaboration and stakeholder engagement will be essential. 
+I am an Associate Project Scientist in the [Gilbert Lab](https://gilbertlab.ucsd.edu/), housed between the University of California San Diego School of Medicine and Scripps Intitution of Oceanography. I am interested in exploring how we can harness microbiome research to support environmental recovery after disturbance, safe and productive food systems, and human health. To address growing challenges, such as the presence of emerging contaminants and increasing climate variability, I believe that interdisciplinary collaboration and community engagement are essential. 
 
-I began my research career as an undergraduate, investigating the pollination efficiency and diversity of native bees on watermelon fields in the Mid-Atlantic. After receiving my B.A. in Biology from Haverford College in 2009, I began an ORISE fellowship in the Division of Microbiology at the FDA's Center for Food Safety and Applied Nutrition. At FDA, I participated in environmental sampling for foodborne pathogens, evaluation of a food safety biological control agent, and optimization of _Salmonella_ detection methods from environmental samples. As a graduate student in Plant Science at the University of Maryland, I studied the influence of farming practices and environmental conditions on plant microbiomes in the complex agricultural environment. As part of the [CONSERVE](http://conservewaterforfood.org/) team based in the UMD School of Public Health, I worked as a postdoctoral fellow and Assistant Program Manager, primarily working to characterize the microbiomes of nontraditional irrigation water sources including surface water and reclaimed wastewater. I actively participated in farmer and community outreach and directed the CONSERVE Summer Intern Program. As a Project Scientist at UCSD's Scripps Institution for Oceanography and School of Medicine, my research is highly interdisciplinary, examining complex relationships between microbiomes, the environment, and human health. In addition to research, I coordinate [Research Experience and Mentoring program](https://scripps.ucsd.edu/about/rem-efri) designed to build a robust mentoring environment and facilitate hands-on training for local undergraduate students interested in pursuing STEM careers.
+I began my research career as an undergraduate, investigating the pollination efficiency and diversity of native bees on watermelon fields in the Mid-Atlantic. After receiving my B.A. in Biology from Haverford College in 2009, I began an ORISE fellowship in the Division of Microbiology at the FDA's Center for Food Safety and Applied Nutrition. At FDA, I participated in environmental sampling for foodborne pathogens, evaluation of a food safety biological control agent, and optimization of _Salmonella_ detection methods from environmental samples. As a graduate student in Plant Science at the University of Maryland, I studied the influence of farming practices and environmental conditions on plant microbiomes in the complex agricultural environment. As part of the [CONSERVE](http://conservewaterforfood.org/) team based in the UMD School of Public Health, I worked as a postdoctoral fellow and Assistant Program Manager, primarily working to characterize the microbiomes of nontraditional irrigation water sources including surface water and reclaimed wastewater. I actively participated in farmer and community outreach and directed the CONSERVE Summer Intern Program. As a Project Scientist at UCSD's Scripps Institution for Oceanography and School of Medicine, my research is highly interdisciplinary, examining complex relationships between microbiomes, the environment, and human health. In addition to research, I coordinate a [Research Experience and Mentoring program](https://scripps.ucsd.edu/about/rem-efri) designed to build a robust mentoring environment and facilitate hands-on training for local undergraduate students interested in pursuing STEM careers.
 
 The illustration of me that you see above was made by friend
 [Meredith Jensen](http://meredithjensen.com).
@@ -58,11 +58,11 @@ Postdoctoral Fellow with [Dr. Amy Sapkota](http://sph.umd.edu/people/amy-r-sapko
 
 ### University of Maryland Department of Plant Science
 #### College Park, MD (2013 - 2016)
-Graduate Research Assistant to [Dr. Shirley Micallef](https://psla.umd.edu/research/research-lab-pages/micallef-lab-produce-safety).
+Graduate Research Assistant to [Dr. Shirley Micallef](https://agnr.umd.edu/about/directory/shirley-micallef/).
 
 * Assessed the influence of on-farm conditions on the microbial ecology of
   tomato and cucumber plants in the agricultural environment through standard
-  microbiological analysis as well as 16S rRNA sequencing and bioinformatic
+  microbiological analysis as well as 16S rRNA gene sequencing and bioinformatic
   analysis.
 * Completed dissertation: Bacterial communities of the tomato phyllosphere:
   response to soil amendment application, rainfall, and insect visitation.
@@ -71,17 +71,17 @@ Graduate Research Assistant to [Dr. Shirley Micallef](https://psla.umd.edu/resea
 #### College Park, MD (2009 - 2013)
 ORISE Fellow in the Division of Microbiology with [Dr. Eric Brown](https://www.fda.gov/food/whole-genome-sequencing-wgs-program/whole-genome-sequencing-researchers#Eric_Brown)
 
-* Evaluated reservoirs of Salmonella in agricultural environments on Virginia’s
+* Evaluated reservoirs of _Salmonella_ in agricultural environments on Virginia’s
   Eastern Shore.
 * Compared efficacy of molecular and microbiological methods of Salmonella
   detection from farm- fresh and store-bought tomatoes.
 * Conducted field, growth chamber, and high tunnel studies to investigate the
-  potential of Paenibacillus alvei TS-15 as a food safety biological control
+  potential of _Paenibacillus alvei_ TS-15 as a food safety biological control
   agent.
 
 ### Bryn Mawr College Department of Biology
 #### Bryn Mawr, PA (2008 - 2009)
-Research Assistant to [Dr. Neal Williams](http://entomology.ucdavis.edu/Faculty/Neal_M_Williams/).
+Research Assistant to [Dr. Neal Williams](https://williamslab.ucdavis.edu/).
 
 * Conducted fieldwork investigating the relationship between bee biodiversity
   and pollination function on watermelon plants at several farms in the
@@ -100,7 +100,8 @@ Full list: [Google scholar](https://scholar.google.com/citations?user=oZonEsEAAA
 * N.R. Gottel, M.S. Hill, M.J. Neal, **S.M. Allard**, K. Zengler, J.A. Gilbert (2024). _Biocontrol in built environments to reduce pathogen exposure and infection risk._ The ISME Journal 18:1. [publication online](https://pubmed.ncbi.nlm.nih.gov/38365248/).
 * M.I. Dothard, **S.M. Allard**, J.A. Gilbert (2023). _The effects of hormone replacement therapy on the microbiomes of postmenopausal women._ Climacteric: 1-11. [publication online](https://pubmed.ncbi.nlm.nih.gov/37051868/).
 * R.E. Diner, A. Zimmer-Faust, E. Cooksey, **S. Allard**, S.M. Kodera, E. Kunselman, Y. Garodia, A.E. Allen, J. Griffith, J.A. Gilbert (2023). _Host and water microbiota are differentially linked to potential human pathogen accumulation in oysters._ Applied and Environmental Microbiology 89. [publication online](https://journals.asm.org/doi/10.1128/aem.00318-23).
-* ...
+* S.M. Kodera, A. Sharma, C. Martino, M. Dsouza, M. Grippo, H.L. Lutz, R. Knight, J.A. Gilbert, C. Negri, **S.M. Allard**  (2023). _Microbiome response in an urban river system is dominated by seasonality over wastewater treatment upgrades._ Environmental Microbiome 18:10. [publication online](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00470-4).
+* L. Zhu, S. Chattopadhyay, O.E. Akanbi, S. Lobo, S. Panthi, L. Malayil, H.A. Craddock, **S.M. Allard**, M. Sharma, K.E. Kniel, E.F. Mongodin, P.C. Chiu, A. Sapkota, A.R. Sapkota (2023). _Biochar and zero-valent iron sand filtration simultaneously removes contaminants of emerging concern and Escherichia coli from wastewater effluent._ Biochar 5:1. [publication online](https://link.springer.com/article/10.1007/s42773-023-00240-y).
 * M.S. Thoemmes, **S.M. Allard**, J.A. Gilbert (2022). _Embracing Healthy Microbiomes, Including Access to Nature and Pets._ The Bridge 52:3. [publication online](https://www.nae.edu/281355/Embracing-Healthy-Microbiomes-Including-Access-to-Nature-and-Pets).
 * L. Malayil, P. Ramachandran, S. Chattopadhyay, **S. Allard**, A. Bui, J. Butron, M. Callahan, H. Craddock, R. Murray, C. East, M. Sharma, K. Kniel, S. Micallef, F. Hashem, C. Gerba, S. Ravishankar, S. Parveen, E. May, E. Handy, P. Kulkarni, B. Anderson-Coughlin, S. Craighead, S. Gartley, A. Vanore, R. Duncan, D. Foust, J. Haymaker, W. Betancourt, L. Zhu, E. Mongodin, A. Sapkota, M. Pop, A.R. Sapkota (2022). _Variations in bacterial communities and antibiotic resistance genes across diverse recycled and surface water irrigation sources in the Mid-Atlantic and Southwestern United States: A CONSERVE two-year field study._ Environmental Science & Technology 56.  [publication online](https://doi.org/10.1021/acs.est.2c02281).
 * M.E. Morgado, C.L. Hudson, S. Chattopadhyay, K. Ta, C. East, N. Purser, **S. Allard**, M.D. Ferrier, A.R. Sapkota, M. Sharma, R. Rosenberg Goldstein (2022). _The effect of a first flush rainwater harvesting and subsurface irrigation system on E. coli and pathogen concentrations in irrigation water, soil, and produce._ Science of the Total Environment 843. [publication online](https://doi.org/10.1016/j.scitotenv.2022.156976). 
@@ -126,30 +127,13 @@ Full list: [Google scholar](https://scholar.google.com/citations?user=oZonEsEAAA
 * J. Haymaker, M. Sharma, S. Parveen, F. Hashem, E.B. May, E.T. Handy, C. White, C. East, R. Bradshaw, S.A. Micallef, M.T. Callahan, **S. Allard**, B. Anderson, S. Craighead, S. Gartley, A. Vanore, K.E. Kniel, S. Solaiman, A. Bui, R.T. Murray, H.A. Craddock, P. Kulkarni, D. Foust, R. Duncan, M. Taabodi, A.R. Sapkota (2019). _Prevalence of Shiga-toxigenic and Atypical Enteropathogenic Escherichia coli in Untreated Surface Water and Reclaimed Water in the Mid-Atlantic U.S._ Environmental Research 172: 630-636. [publication online](https://doi.org/10.1016/j.envres.2019.02.019).
 * **S. Allard**, A. Ottesen, E. Brown, S. Micallef (2018). _Insect exclusion limits variation in tomato flower and fruit microbiomes_. Journal of Applied Microbiology 125(6): 1749-1760. [publication online](https://doi.org/10.1111/jam.14087).
 * J.S. Meisel, D.J. Nasko, B. Brubach, V.C. Espinoza, J. Chopyk, H. Corrada-Bravo, M. Fedarko, J. Ghurye, K. Javkar, N.D. Olson, N. Shah, **S.M. Allard**, A.L. Bazinet, N.H. Bergman, A. Brown, J.G. Caporaso, S. Conlan, J. DiRuggiero, S.P. Forry, N.A. Hasan, J. Kralj, P.M. Luethy, D.K. Milton, B. Ondov, S. Preheim, S. Ratnayake, S.M. Rogers, M.J. Rosovitz, E.G. Sakowski, N.O. Schliebs, D.D. Sommer, K.L. Ternus, G. Uritskiy, S.X. Zhang, M. Pop, T. Treangen (2018). _Current progress and future opportunities in applications of bioinformatics for biodefense and pathogen detection: Report from the Winter Mid-Atlantic Microbiome Meet-up, College Park, MD January 10th, 2018_. Microbiome 6: 197. [publication online](https://doi.org/10.1186/s40168-018-0582-5).
-* J. Chopyk, **S. Allard**, D.J. Nasko, A. Bui, E.F. Mongodin, A.R. Sapkota (2018). _Agricultural freshwater pond supports diverse and dynamic bacterial and viral populations_. Frontiers in Microbiology 9(792).
-  [publication online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928236/).
-* **S. Allard**, C. Walsh, A. Wallis, A. Ottesen, E. Brown, S. Micallef (2016).
-  _Solanum lycopersicum (tomato) hosts robust phyllosphere and rhizosphere bacterial communities when grown in soil amended with various organic and synthetic fertilizers_. Science of the Total Environment 573: 555-563. [publication online](https://www.ncbi.nlm.nih.gov/pubmed/27580466).
-* R. Bell, J. Zheng, E. Burrows, **S. Allard**, C. Wang, C. Keys, D. Melka, E.
-  Strain, Y. Luo, M. Allard, S. Rideout, E. Brown (2015). _Ecological prevalence, genetic diversity, and epidemiological aspects of Salmonella isolated from tomato agricultural regions of the Virginia Eastern Shore_.
-  Frontiers in Microbiology 6(415).
-  [publication online](https://www.ncbi.nlm.nih.gov/pubmed/25999938).
-* **S. Allard**, A. Enurah, E. Strain, R. Blodgett, P. Millner, S. Rideout, E.
-  Brown, J. Zheng (2014). _In situ evaluation of Paenibacillus alvei in reducing carriage of Salmonella Newport on whole tomato plants_. Applied and
-  Environmental Microbiology 80(13): 3842:3849.
-  [publication online](https://www.ncbi.nlm.nih.gov/pubmed/24747888).
-* Y. Luo, C. Wang, **S. Allard**, E. Strain, M. Allard, E. Brown, and J. Zheng
-  (2013). _Draft Genome Sequences of Paenibacillus alvei_. Genome Announcements
-  1(5): e00673-13.
-  [publication online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3757446/).
-* A. Ottesen, A. Gonzalez, J. White, J. Pettengill, C. Li, **S. Allard**, S.
-  Rideout, M. Allard, T. Hill, P. Evans, E. Strain, S. Musser, R. Knight, E.
-  Brown (2013). _Baseline survey of the anatomical microbial ecology of an important food plant: Solanum lycopersicum (tomato)_. BMC Microbiology 13(1):
-  114.
-  [publication online](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-13-114).
-* J. Zheng, **S. Allard**, S. Reynolds, P. Millner, G. Arce, R. Blodgett, E.
-  Brown (2013). _Colonization and Internalization of Salmonella enterica in Tomato Plants_. Applied and Environmental Microbiology 79: 2494-502.
-  [publication online](http://aem.asm.org/content/79/8/2494.full).
+* J. Chopyk, **S. Allard**, D.J. Nasko, A. Bui, E.F. Mongodin, A.R. Sapkota (2018). _Agricultural freshwater pond supports diverse and dynamic bacterial and viral populations_. Frontiers in Microbiology 9(792). [publication online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928236/).
+* **S. Allard**, C. Walsh, A. Wallis, A. Ottesen, E. Brown, S. Micallef (2016). _Solanum lycopersicum (tomato) hosts robust phyllosphere and rhizosphere bacterial communities when grown in soil amended with various organic and synthetic fertilizers_. Science of the Total Environment 573: 555-563. [publication online](https://www.ncbi.nlm.nih.gov/pubmed/27580466).
+* R. Bell, J. Zheng, E. Burrows, **S. Allard**, C. Wang, C. Keys, D. Melka, E. Strain, Y. Luo, M. Allard, S. Rideout, E. Brown (2015). _Ecological prevalence, genetic diversity, and epidemiological aspects of Salmonella isolated from tomato agricultural regions of the Virginia Eastern Shore_. Frontiers in Microbiology 6(415). [publication online](https://www.ncbi.nlm.nih.gov/pubmed/25999938).
+* **S. Allard**, A. Enurah, E. Strain, R. Blodgett, P. Millner, S. Rideout, E. Brown, J. Zheng (2014). _In situ evaluation of Paenibacillus alvei in reducing carriage of Salmonella Newport on whole tomato plants_. Applied and Environmental Microbiology 80(13): 3842:3849. [publication online](https://www.ncbi.nlm.nih.gov/pubmed/24747888).
+* Y. Luo, C. Wang, **S. Allard**, E. Strain, M. Allard, E. Brown, and J. Zheng (2013). _Draft Genome Sequences of Paenibacillus alvei_. Genome Announcements 1(5): e00673-13. [publication online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3757446/).
+* A. Ottesen, A. Gonzalez, J. White, J. Pettengill, C. Li, **S. Allard**, S. Rideout, M. Allard, T. Hill, P. Evans, E. Strain, S. Musser, R. Knight, E. Brown (2013). _Baseline survey of the anatomical microbial ecology of an important food plant: Solanum lycopersicum (tomato)_. BMC Microbiology 13(1):114. [publication online](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-13-114).
+* J. Zheng, **S. Allard**, S. Reynolds, P. Millner, G. Arce, R. Blodgett, E. Brown (2013). _Colonization and Internalization of Salmonella enterica in Tomato Plants_. Applied and Environmental Microbiology 79: 2494-502. [publication online](http://aem.asm.org/content/79/8/2494.full).
   
   ## Other Media
   
